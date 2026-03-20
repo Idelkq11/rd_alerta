@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71192441917",
+    "project_id": "rd-alerta",
+    "storage_bucket": "rd-alerta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71192441917:android:6e67d717f3004d31316654",
+        "android_client_info": {
+          "package_name": "com.example.rd_alerta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71192441917-bnqtp129nskh2iqh62d5q9uj3qlf4if2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxOsUCp2yJyXb7L1R123mMNTH1h2CA44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71192441917-bnqtp129nskh2iqh62d5q9uj3qlf4if2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
